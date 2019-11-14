@@ -1,46 +1,43 @@
 fileFormatVersion: 2
-guid: 386e85abd683a3e44a26379fb86ebb16
+guid: d78b46523ba7db14d94678e24c2dd90a
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Jogo-RPG_84x84_0
-    21300002: Jogo-RPG_84x84_1
-    21300004: Jogo-RPG_84x84_2
-    21300006: Jogo-RPG_84x84_3
-    21300008: Jogo-RPG_84x84_4
-    21300010: Jogo-RPG_84x84_5
-    21300012: Jogo-RPG_84x84_6
-    21300014: Jogo-RPG_84x84_7
-    21300016: Jogo-RPG_84x84_8
-    21300018: Jogo-RPG_84x84_9
-    21300020: Jogo-RPG_84x84_10
-    21300022: Jogo-RPG_84x84_11
-    21300024: Jogo-RPG_84x84_12
-    21300026: Jogo-RPG_84x84_13
-    21300028: Jogo-RPG_84x84_14
-    21300030: Jogo-RPG_84x84_15
-    21300032: Jogo-RPG_84x84_16
-    21300034: Jogo-RPG_84x84_17
-    21300036: Jogo-RPG_84x84_18
-    21300038: Jogo-RPG_84x84_19
-    21300040: Jogo-RPG_84x84_20
-    21300042: Jogo-RPG_84x84_21
-    21300044: Jogo-RPG_84x84_22
-    21300046: Jogo-RPG_84x84_23
-    21300048: Jogo-RPG_84x84_24
-    21300050: Jogo-RPG_84x84_25
-    21300052: Jogo-RPG_84x84_26
-    21300054: Jogo-RPG_84x84_27
-    21300056: Jogo-RPG_84x84_28
-    21300058: Jogo-RPG_84x84_29
-    21300060: Jogo-RPG_84x84_30
-    21300062: Jogo-RPG_84x84_31
-    21300064: Jogo-RPG_84x84_32
-    21300066: Jogo-RPG_84x84_33
-    21300068: Jogo-RPG_84x84_34
-    21300070: Jogo-RPG_84x84_35
-    21300072: Jogo-RPG_84x84_36
-    21300074: Jogo-RPG_84x84_37
-    21300076: Jogo-RPG_84x84_38
+    21300000: Jill_Monstro_84x84_0
+    21300002: Jill_Monstro_84x84_1
+    21300004: Jill_Monstro_84x84_2
+    21300006: Jill_Monstro_84x84_3
+    21300008: Jill_Monstro_84x84_4
+    21300010: Jill_Monstro_84x84_5
+    21300012: Jill_Monstro_84x84_6
+    21300014: Jill_Monstro_84x84_7
+    21300016: Jill_Monstro_84x84_8
+    21300018: Jill_Monstro_84x84_9
+    21300020: Jill_Monstro_84x84_10
+    21300022: Jill_Monstro_84x84_11
+    21300024: Jill_Monstro_84x84_12
+    21300026: Jill_Monstro_84x84_13
+    21300028: Jill_Monstro_84x84_14
+    21300030: Jill_Monstro_84x84_15
+    21300032: Jill_Monstro_84x84_16
+    21300034: Jill_Monstro_84x84_17
+    21300036: Jill_Monstro_84x84_18
+    21300038: Jill_Monstro_84x84_19
+    21300040: Jill_Monstro_84x84_20
+    21300042: Jill_Monstro_84x84_21
+    21300044: Jill_Monstro_84x84_22
+    21300046: Jill_Monstro_84x84_23
+    21300048: Jill_Monstro_84x84_24
+    21300050: Jill_Monstro_84x84_25
+    21300052: Jill_Monstro_84x84_26
+    21300054: Jill_Monstro_84x84_27
+    21300056: Jill_Monstro_84x84_28
+    21300058: Jill_Monstro_84x84_29
+    21300060: Jill_Monstro_84x84_30
+    21300062: Jill_Monstro_84x84_31
+    21300064: Jill_Monstro_84x84_32
+    21300066: Jill_Monstro_84x84_33
+    21300068: Jill_Monstro_84x84_34
+    21300070: Jill_Monstro_84x84_35
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -120,6 +117,28 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
   - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
     buildTarget: Windows Store Apps
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -145,31 +164,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Jogo-RPG_84x84_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 587
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 18a12c146d7cbfb43b9a7eabdec5c38c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_1
+      name: Jill_Monstro_84x84_0
       rect:
         serializedVersion: 2
         x: 84
-        y: 587
+        y: 420
         width: 84
         height: 84
       alignment: 0
@@ -179,477 +178,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 370a25a50a1be3640934d8074fed40b5
+      spriteID: 5968e4847bf6bd54db010de1ba9e6022
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jogo-RPG_84x84_2
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 587
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 23e33a6510802a34a86a3d97fc6d3b25
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_3
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 503
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f466e99fa591a2d449d45c6a527b0f11
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_4
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 503
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 682a0c19a1a91b74ebdea88a77274426
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_5
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 503
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3e9f21ef4a59fde4ab81be3df2a825d0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_6
-      rect:
-        serializedVersion: 2
-        x: 420
-        y: 503
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1611d1f873771d849975b1e987e65599
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_7
-      rect:
-        serializedVersion: 2
-        x: 504
-        y: 503
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f85de66069a26d443a48e5351a74ffaa
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_8
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 419
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 719810000c3a508459a0ecc5d4fbb29c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_9
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 419
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8cc1bdf46e4e90847bfe25daa6d322b0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_10
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 419
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c77616ab6165571498ad97e173833acb
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_11
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 419
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e054162bafcdc684fa2dea8f24763ce2
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_12
-      rect:
-        serializedVersion: 2
-        x: 420
-        y: 419
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d6d77f9d676d40f4094999f5e5462f7a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_13
-      rect:
-        serializedVersion: 2
-        x: 504
-        y: 419
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5758f687e084d1945b49fd37ea8ac63d
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_14
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 335
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8623459d211cd3049ad647762fbb1d08
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_15
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 335
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 108fb6e62dd73e442bde8f951bb84d0a
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_16
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 335
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 62e56f0a55baccc4294493cfaaf75407
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_17
-      rect:
-        serializedVersion: 2
-        x: 336
-        y: 335
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7a770f96026206c4ca22b7da4a5f33ad
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_18
-      rect:
-        serializedVersion: 2
-        x: 420
-        y: 335
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 42ab91c39ff1d0742be9851fff6bd599
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_19
-      rect:
-        serializedVersion: 2
-        x: 504
-        y: 335
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 525427574467a96469e844c92abe375c
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_20
-      rect:
-        serializedVersion: 2
-        x: 588
-        y: 335
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ae899336bb0a5aa44b3d4b192fc2b671
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_21
-      rect:
-        serializedVersion: 2
-        x: 672
-        y: 335
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 53819739fee6a394a9285032a0f6417b
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_22
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 251
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 101c8cf15220a9143989ef2df98ac0ed
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_23
-      rect:
-        serializedVersion: 2
-        x: 84
-        y: 251
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5339ea41770db514abb83e349dd0ae48
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_24
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 251
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 63cbdbc58ed94d14eac0cc86b264d7ce
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_25
+      name: Jill_Monstro_84x84_1
       rect:
         serializedVersion: 2
         x: 252
-        y: 251
+        y: 420
         width: 84
         height: 84
       alignment: 0
@@ -659,17 +198,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4984fe6a434a0f49bf6e079d093bb3e
+      spriteID: adca343e3f4826c45bfe2f91353aa000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jogo-RPG_84x84_26
+      name: Jill_Monstro_84x84_2
       rect:
         serializedVersion: 2
         x: 336
-        y: 251
+        y: 420
         width: 84
         height: 84
       alignment: 0
@@ -679,17 +218,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1918b2d9125b09841b34a4656b11325e
+      spriteID: 175d999fb711c594ab5c16623e3e43bd
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jogo-RPG_84x84_27
+      name: Jill_Monstro_84x84_3
       rect:
         serializedVersion: 2
         x: 420
-        y: 251
+        y: 420
         width: 84
         height: 84
       alignment: 0
@@ -699,17 +238,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8f49ad09e4f26f418a878a1e9b86c46
+      spriteID: 32d95e6c04d8a9249bf0328b0b3f29d3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jogo-RPG_84x84_28
+      name: Jill_Monstro_84x84_4
       rect:
         serializedVersion: 2
         x: 504
-        y: 251
+        y: 420
         width: 84
         height: 84
       alignment: 0
@@ -719,17 +258,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8aed18a705dc379418e416f7fd38a3aa
+      spriteID: f2b2495de15829d44bd870466ee9d204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jogo-RPG_84x84_29
+      name: Jill_Monstro_84x84_5
       rect:
         serializedVersion: 2
         x: 588
-        y: 251
+        y: 420
         width: 84
         height: 84
       alignment: 0
@@ -739,17 +278,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 523cab0f22162b244986394cde4bd5b3
+      spriteID: ed95d7fdaf7420f4b854daa1b2623ba3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jogo-RPG_84x84_30
+      name: Jill_Monstro_84x84_6
       rect:
         serializedVersion: 2
-        x: 672
-        y: 251
+        x: 756
+        y: 420
         width: 84
         height: 84
       alignment: 0
@@ -759,37 +298,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3070dc6ed6d6ff248a042524412f2a0c
+      spriteID: 5396df16b8c5bcb40bf8c01f01c0a232
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jogo-RPG_84x84_31
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 167
-        width: 84
-        height: 84
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 226bdab82ddfc544c9ffaed40b6699d9
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Jogo-RPG_84x84_32
+      name: Jill_Monstro_84x84_7
       rect:
         serializedVersion: 2
         x: 84
-        y: 167
+        y: 336
         width: 84
         height: 84
       alignment: 0
@@ -799,17 +318,37 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ed6efcd8167e5d4f8c7685437dc20ca
+      spriteID: 6808dd5c69193bd4581a653c1aa88da6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jogo-RPG_84x84_33
+      name: Jill_Monstro_84x84_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 336
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57408b25ee977cc48a8748a9c224f94b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_9
       rect:
         serializedVersion: 2
         x: 336
-        y: 167
+        y: 336
         width: 84
         height: 84
       alignment: 0
@@ -819,17 +358,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a39beb914010654f8dc74a24160dca8
+      spriteID: 8adda94d1797fb6488ea66fe71e62819
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jogo-RPG_84x84_34
+      name: Jill_Monstro_84x84_10
       rect:
         serializedVersion: 2
         x: 420
-        y: 167
+        y: 336
         width: 84
         height: 84
       alignment: 0
@@ -839,17 +378,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27258619e7f62a44b847e20236f73906
+      spriteID: 0b0df2fa76bb7d843aece86d42b7e9c4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jogo-RPG_84x84_35
+      name: Jill_Monstro_84x84_11
       rect:
         serializedVersion: 2
         x: 504
-        y: 167
+        y: 336
         width: 84
         height: 84
       alignment: 0
@@ -859,17 +398,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e182f2e392034f4a88dc479dcd244b2
+      spriteID: 495652c5261403944bdbf9faa3fbf439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jogo-RPG_84x84_36
+      name: Jill_Monstro_84x84_12
       rect:
         serializedVersion: 2
-        x: 672
-        y: 167
+        x: 588
+        y: 336
         width: 84
         height: 84
       alignment: 0
@@ -879,17 +418,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b513ec73e8210346b1ffff4409ed25b
+      spriteID: 6b3ae051596147449bb4bd570f55a12b
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jogo-RPG_84x84_37
+      name: Jill_Monstro_84x84_13
       rect:
         serializedVersion: 2
-        x: 0
-        y: 83
+        x: 756
+        y: 336
         width: 84
         height: 84
       alignment: 0
@@ -899,17 +438,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3fc2470b31aaf9943914c2ea3b74e358
+      spriteID: d9a0afeb37f842846b69bcab08ee0065
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Jogo-RPG_84x84_38
+      name: Jill_Monstro_84x84_14
       rect:
         serializedVersion: 2
         x: 84
-        y: 83
+        y: 252
         width: 84
         height: 84
       alignment: 0
@@ -919,7 +458,427 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30fea9bb037e1a74d8b3872a20462ecd
+      spriteID: fa35e5eac37dcd549a053f35f918c95b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 252
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f146982e4b692243a6747290d5b8dec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 252
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef52ef8f5c0cc934abb8c2d1bc4d2948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 252
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a7511ce6e9ec6488a5b9e1778a5876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_18
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 252
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818b197871e6cab4cb1c83ed15fb482f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_19
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 252
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b348faffbab52649a2c478408fe5007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_20
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 252
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294223b8e75eb1148be8ac4e87b12d9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 168
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d124ca0bef4a8c441bea43d3e99e6742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 168
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a1f97806e790a408cd4edc730474cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 168
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b3f9c6e92ac604ba87bb2fca89e323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_24
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 168
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d88d9cfdf7648e4f8e9e40cd9c637bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_25
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 168
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf30f9113ed52d4ab999e80edfbaae9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_26
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 168
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab439a6f5f7a854fb4d9d3e21e3b3b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_27
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 168
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849ea38dcaf9fcf499626bc539a4a195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_28
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91702becd5e49044d9993be56d555750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e060cdf980fc15a419bf2eb34efac20c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_30
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c398940203009634a9cc6c830f0f254b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372263a16c86e1947bd0acbaa6d08faf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_32
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf15548b2326d45b3454d2a6833442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_33
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb49410da963d8429c3167dc4e30791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_34
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d4a15b1cbc9134fb00dda73adaedcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jill_Monstro_84x84_35
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9908865648f03aa42b22c49e4fe48de7
       vertices: []
       indices: 
       edges: []
@@ -927,7 +886,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 16f077d999d1efd41a2c3b69570dc4a7
+    spriteID: 2b1b8cf2193c564498669aeb5b41b461
     vertices: []
     indices: 
     edges: []
